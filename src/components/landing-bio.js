@@ -40,8 +40,10 @@ const LandingBio = () => (
     render={data => (
       <OuterContainer>
         <Container>
+          <Description>Hello World!</Description>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
-          <Description>Software Developer</Description>
+          <br/>
+        <Description>Software Developer | All things JavaScript.</Description>
         </Container>
       </OuterContainer>
     )}

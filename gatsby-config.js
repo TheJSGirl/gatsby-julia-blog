@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Julia Doe`,
-    description: `A minimal blog starter built with Gatsbyjs. The needes Gatsby files are included.`,
-    author: `@niklasmtj`,
+    title: `Priyanka Negi`,
+    description: `I am a software developer working with JavaScript, Node.js, MongoDB, Docker, AWS. Ocasionally I write blogs on Medium`,
+    author: `@thejsgrl`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -40,7 +40,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/favicon.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
